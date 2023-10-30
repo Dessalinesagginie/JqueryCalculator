@@ -1,0 +1,80 @@
+if (firstNumber === undefined) {
+  //  var firstNumber = $(this).val(); 
+  // if the condition is true
+} else {
+  // var secondNumber = $(this).val();  
+  //  block of code to be executed if the condition is false
+}                       
+
+
+
+
+
+
+
+
+if (condition) {
+  //  block of code to be executed if the condition is true
+} else {
+  //  block of code to be executed if the condition is false
+}
+
+=== 
+<
+<=
+> 
+
+  if (operator === undefined) {  
+    firstNumber = $(this).val(); 
+    $("#first-number").text(firstNumber);
+
+  } else { // operator is defined
+    secondNumber = $(this).val();
+    $("#second-number").text(secondNumber);
+  }
+
+"1" + "2"="12";
+
+"1" + "1" + "1"="111"
+
+let a="8"
+let b="3"
+let c="5"
+
+a + b + c ="835"
+
+  let a
+      let d =  a + $(this).val() 
+
+let text1 = "string";
+let text2 = "food";
+let result = text1.concat(text2);
+
+document.getElementById("demo").innerHTML = result;
+$("#demo").text(result)
+
+let result= "1" + "2";
+
+u u u 
+d u u 
+u d u 
+d d u 
+
+u u d
+d u d
+u d d
+d d d
+
+7/7/23
+when firstnumber is defined, operator can be defined
+if firstNumber !== undefined then write operator 
+
+
+= sets definition  firstNumber = 4
+!== comparing left to right side  secondNumber is not undefined
+=== comparing left to right   + === +
+
+function reset() {
+        clear();
+
+        "÷" === "/"
